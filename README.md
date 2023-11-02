@@ -52,7 +52,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://play-lh.googleusercontent.com/GY-KNYDw_GFuEBK4C_iVXBqFX2VpIW3cJ5Yb-7BkWv363sNO19z8s_0rS0BQ40AXzms=w240-h480"/>](https://www.sicoob.com.br/)
 
 **Desenvolvedor Backend Java** \
 [**Sicoob**](https://www.sicoob.com.br/) • Estágio \
